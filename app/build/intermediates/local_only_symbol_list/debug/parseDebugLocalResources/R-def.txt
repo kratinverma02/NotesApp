@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+string app_name
+string cancel
+string channel_description
+string channel_name
+string delete
+string edit
+string new_note
+string new_task
+string no_notes_yet
+string no_tasks_yet
+string note_deleted
+string note_empty_error
+string note_saved
+string notes
+string pin
+string reminder_set
+string save
+string search_notes
+string task_deleted
+string task_saved
+string tasks
+string title_required
+string unpin
+style Theme.NoteTask

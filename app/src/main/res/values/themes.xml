@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Base application theme.
+        NoActionBar → we use Compose TopAppBar, not the system action bar.
+        DayNight    → system handles light/dark switching at the View level
+                      (Compose handles it via NoteTaskTheme internally).
+    -->
+    <style name="Theme.NoteTask" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
