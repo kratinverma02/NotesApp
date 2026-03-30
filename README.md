@@ -2,12 +2,6 @@
 
 A modern Android application built to efficiently manage notes with real-time search functionality and task manager, developed using Kotlin, Jetpack Compose, and Room Database following MVVM + Clean Architecture.
 
-
-🎥 Project Demo :-
-
-[https://drive.google.com/file/d/14ujJ54o0rD0RwKHmJSFLWapBBAK-VZ73/view?usp=drive_link]
-
-
 🚀 Project Overview :-
 
 “This project is a Notes App with real-time search functionality, developed to demonstrate CRUD operations, fast search performance, and clean architecture using modern Android tools.”
